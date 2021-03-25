@@ -1,0 +1,705 @@
+{
+
+	"staff": {
+
+		"founders": [
+			{
+				"name": "KLO25",
+				"role": "Founder",
+
+				"youtube": "https://www.youtube.com/user/25KLOoODE",
+				"instagram": "https://www.instagram.com/klo/",
+				"twitter": "https://www.twitter.com/KLOoODE25",
+				"twitch": null				
+			}
+		],
+
+		"co_founders": [
+			{
+
+				"name": "MrFarosy",
+				"role": "Players Manager",
+
+				"youtube": "https://www.youtube.com/user/MrFarosy",
+				"instagram": "https://www.instagram.com/0fkh/",
+				"twitter": "https://www.twitter.com/Farosy_",
+				"twitch": null
+			},
+			{
+
+				"name": "iwbDan",
+				"role": "Content Creators Manager",
+
+				"youtube": "https://www.youtube.com/channel/UCSnzeQ3aENzaXpVc43IW3kw",
+				"instagram": "https://www.instagram.com/@iwbdan/",
+				"twitter": "https://www.twitter.com/iwbDan",
+				"twitch": null
+			}			
+		],
+		"managers": [
+			{
+
+				"name": "OmegaAK7",
+				"role": "General Manager",
+
+				"youtube": "https://www.youtube.com/user/3baDy7Monster",
+				"instagram": "https://www.instagram.com/OmegaAK7/",
+				"twitter": "https://www.twitter.com/OmegaAK7",
+				"twitch": null
+
+			},
+			{
+
+				"name": "AbuFal7",
+				"role": "Fortnite Manager",
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/l2abufal7/",
+				"twitter": "https://www.twitter.com/L2AbuFal7",
+				"twitch": null
+
+			},
+			{
+
+				"name": "We11y",
+				"role": "FIFA Manager",
+
+				"youtube": "https://www.youtube.com/user/TiizcoFX",
+				"instagram": "https://www.instagram.com/We11y_/",
+				"twitter": "https://www.twitter.com/We11y_",
+				"twitch": null
+
+			},
+			{
+
+				"name": "MajorSaud",
+				"role": "COD Manager",
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/saud9j/",
+				"twitter": "https://www.twitter.com/Saud9J",
+				"twitch": null
+
+			},
+			{
+
+				"name": "Eizo",
+				"role": "Rocket League Manager",
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/eizo112/",
+				"twitter": "https://www.twitter.com/Eizo112",
+				"twitch": null
+
+			},
+			{
+
+				"name": "Eye",
+				"role": "IT Manager",
+
+				"youtube": "#",
+				"instagram": null,
+				"twitter": null,
+				"twitch": null
+
+			},
+			{
+
+				"name": "Anc2",
+				"role": "IT Manager",
+
+				"youtube": "#",
+				"instagram": "https://www.instagram.com/anc2/",
+				"twitter": "https://www.twitter.com/anc2n",
+				"twitch": null
+
+			}			
+		]	
+	},
+
+
+
+	"cc": {
+		"members": [
+
+			{
+
+				"name": "xMaystrooo",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCmYiw2HiPqorGEm29tPUXBQ",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/xmaystrooo"
+
+			},
+			{
+
+				"name": "iMxD",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCSd0pmlQ5Mp3BnuSICzojbw?view_as=subscriber",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/1imxd"
+
+			},
+			{
+
+				"name": "TroPec",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/TroPec",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "http://www.twitch.tv/tropec0"
+
+			},
+			{
+
+				"name": "Bxik",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/Bxik644",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://twitch.tv/bxik77"
+
+			},
+			{
+
+				"name": "Navi",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/Navi",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://twitch.tv/navivaxn"
+
+			},
+			{
+
+				"name": "y5wff",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UC2Z9Al6rnXY3Lakt8tGE5CQ",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://m.twitch.tv/y5wff/profile"
+
+			},
+			{
+
+				"name": "x Bear",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/XBear1",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://mob.nonolive.com/room/36346677"
+
+			},
+			{
+
+				"name": "ابو عطاالله",
+				"role": null,
+
+				"youtube": "https://m.youtube.com/user/MrFarosy",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://m.twitch.tv/mrfarosyy/profile"
+
+			},
+			{
+
+				"name": "ir2id1",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/ir2id1",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/ir2id1"
+
+			},
+			{
+
+				"name": "Maxgamer",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/MaxGamer10",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://twitch.tv/maxgamer1"
+
+			},
+			{
+
+				"name": "iwbDan",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCSnzeQ3aENzaXpVc43IW3kw",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://m.twitch.tv/iwbdan"
+
+			},
+			{
+
+				"name": "سالم / سفاح",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCGIGoJOdftLj9LfqLSwRf4Q",
+				"instagram": "https://instagram.com/ttjx?igshid=1a35la1di0w74",
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/iSFA7i_"
+
+			},
+			{
+
+				"name": "فقدح",
+				"role": null,
+
+				"youtube": "https://m.youtube.com/channel/UCX8P3aV02CDVCMbLAX2FOnw",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://m.twitch.tv/vqd7_"
+
+			},
+			{
+
+				"name": "يصرخ ",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/mjodi5003",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://m.twitch.tv/iy9r5"
+
+			},
+			{
+
+				"name": "DATC",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCj9lpdZC9qImpc0UCaQBBaQ",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://m.twitch.tv/Datc/profile"
+
+			},
+			{
+
+				"name": "VIRUS",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/VIRUS0",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://twitch.tv/virus1a"
+
+			},
+			{
+
+				"name": "abosllo",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/TNTxGamers1",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://m.twitch.tv/abosllo/profile"
+
+			},
+			{
+
+				"name": "F2had25",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/f2had25"
+
+			},				
+			{
+
+				"name": "7LM",
+				"role": null,
+
+				"youtube": "https://youtu.be/K8YJ8CNG3eM",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/videos/698651735"
+
+			},
+			{
+
+				"name": "Dew",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/3aLMSony",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/iDew"
+
+			},
+			{
+
+				"name": "bigfatherkwt",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCMkuNlgvjJweVVzXF7v5UvQ",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/bigfatherkwt"
+
+			},
+			{
+
+				"name": "Santa",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCfu7ko7fyL6paD6Wj53qPRg?view_as=subscriber",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/santa_fbi"
+
+			},
+			{
+
+				"name": "ربش ",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/user/xSHA67x",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://www.twitch.tv/drrbsh"
+
+			},
+			{
+
+				"name": "PLAYAWAY",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/c/IPlayAwayI",
+				"instagram": null,
+				"twitter": null,
+				"twitch": "https://mob.nonolive.com/room/37397273"
+
+			}				
+		]
+	},
+
+
+	"editors": {
+		"members": [
+
+
+		]
+	},
+
+	"designers": {
+		"members": [
+
+			{
+
+				"name": "ANC2",
+				"role": "Designers Manager",
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/anc2/",
+				"twitter": "https://twitter.com/anc2n",
+				"twitch": null
+
+			},
+			{
+
+				"name": "ABO8RNAH",
+				"role": null,
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/greenz1z/",
+				"twitter": "https://twitter.com/abo8rnah",
+				"twitch": null
+
+			},
+			{
+
+				"name": "RKNI",
+				"role": null,
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/rkni/",
+				"twitter": "https://twitter.com/_rkni",
+				"twitch": null
+
+			},
+			{
+
+				"name": "Skullz9",
+				"role": null,
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/_skullz9/",
+				"twitter": "https://twitter.com/iiABadri",
+				"twitch": null
+
+			},
+			{
+
+				"name": "Bondoz",
+				"role": null,
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/bondo2zz/",
+				"twitter": "https://twitter.com/Bondo2zz",
+				"twitch": null
+
+			},
+			{
+
+				"name": "Simox",
+				"role": null,
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/simox1x/",
+				"twitter": "https://twitter.com/simox1x_",
+				"twitch": null
+
+			}				
+		]
+	},
+
+
+	"fifa": {
+		"members": [
+
+			{
+
+				"name": "We11y",
+				"role": "Fifa Manager",
+
+				"youtube": "https://youtube.com/channel/UCS0vfDB19rL6iB8ACO4uK-A",
+				"instagram": "https://www.instagram.com/we11y_/",
+				"twitter": "https://twitter.com/we11y_",
+				"twitch": "https://www.twitch.tv/iwe11y"
+
+			},
+			{
+
+				"name": "ABO3ZZA10",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCKA90a_Uk2CE9JDj-Lv-llQ",
+				"instagram": "http://instagram.com/abo3zza10",
+				"twitter": "http://twitter.com/abo3zza10",
+				"twitch": "http://twitch.com/abo3zza_10"
+
+			},
+			{
+
+				"name": "LVLeshaal",
+				"role": null,
+
+				"youtube": null,
+				"instagram": "https://www.instagram.com/lvleshaal/",
+				"twitter": "https://twitter.com/lVleshaal",
+				"twitch": "https://twitch.tv/lvleshaal"
+
+			}
+		]
+	},
+
+
+	"cod": {
+		"members": [
+
+			{
+
+				"name": "Viper",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCKcpFVat2Qba0wtBrp6kdjw?view_as=subscriber",
+				"instagram": null,
+				"twitter": "https://twitter.com/Hamany_o",
+				"twitch": "https://www.twitch.tv/oVip3r"
+
+			},
+			{
+
+				"name": "a7m00d",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": "https://twitter.com/Hamany_o",
+				"twitch": "https://m.twitch.tv/a7m00d/profile"
+
+			},
+			{
+
+				"name": "QYEM",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/watch?v=XDseBT3WheY&feature=youtu.be",
+				"instagram": "https://‪instagram.com/nb9h/‬⁩",
+				"twitter": "https://‪twitter.com/QYEM1‬⁩",
+				"twitch": "https://twitch.tv/qyem"
+
+			},
+			{
+
+				"name": "QuietSultan",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": "https://twitter.com/SULTDs",
+				"twitch": "http://twitch.tv/QuietSultan"
+
+			},
+			{
+
+				"name": "WXGF",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UCtnBArEvMzPMEO2JESDtSGQ?view_as=subscriber",
+				"instagram": "https://www.instagram.com/wxgf/",
+				"twitter": "https://twitter.com/iWXGF",
+				"twitch": "https://www.twitch.tv/wxgf"
+
+			},
+			{
+
+				"name": "RvLz",
+				"role": null,
+
+				"youtube": "https://www.youtube.com/channel/UC8Dm_ui2wuGn-_ym8bKIQ2g?view_as=subscriber",
+				"instagram": "https://www.instagram.com/orvlz/",
+				"twitter": "https://twitter.com/xRvLz",
+				"twitch": "https://www.twitch.tv/25rvlz"
+
+			},
+			{
+
+				"name": "MajorSaud",
+				"role": null,
+
+				"youtube": null,
+				"instagram": "https://www.‪instagram.com/Saud9j/‬⁩",
+				"twitter": "https://twitter.com/Saud9J",
+				"twitch": "https://www.twitch.tv/MajorSaud"
+
+			},
+			{
+
+				"name": "Runtolife",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": "https://twitter.com/aabdullahh94",
+				"twitch": null
+
+			},
+			{
+
+				"name": "vbdullah",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": "http://twitter.com/vbdullaah",
+				"twitch": "https://twitch.tv/vbdullah"
+
+			},
+			{
+
+				"name": "Xx_SALEH",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": "http://twitter.com/Xx1SALEH",
+				"twitch": "https://twitch.tv/Xx2SALEH"
+
+			},
+			{
+
+				"name": "zZTwisterZz",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": "http://twitter.com/Aziz__jamal",
+				"twitch": null
+
+			},
+			{
+
+				"name": "EvilSoul",
+				"role": null,
+
+				"youtube": null,
+				"instagram": null,
+				"twitter": "http://twitter.com/3m2rv",
+				"twitch": "https://www.twitch.tv/3m2rx"
+
+			}
+		]
+	},
+
+	"merch": {
+
+		"tshirts": [
+
+			{
+				"img": "https://cdn.discordapp.com/attachments/761654967417176085/761688257997701120/2.png",
+				"back": null,
+				"link": "https://www.alfansouq.com/products/25-e-sports-khlooode-black-jerseys"
+			},
+			{
+				"img": "https://cdn.discordapp.com/attachments/761654967417176085/761688261063344138/3.png",
+				"back": null,
+				"link": "https://www.alfansouq.com/products/25-esports-black-hoodie"
+			},
+			{
+				"img": "https://cdn.discordapp.com/attachments/761654967417176085/761688263458684938/1.png",
+				"back": null,
+				"link": "https://www.alfansouq.com/products/25-e-sports-khlooode-white-jerseys"
+			},		
+			{
+				"img": "https://cdn.discordapp.com/attachments/761654967417176085/761688254919082064/4.png",
+				"back": null,
+				"link": "https://www.alfansouq.com/products/25-esports-white-hoodie"
+			}
+		]
+
+	},
+
+	"youtube": {
+
+		"videos": [
+
+			{
+				"url": "https://www.youtube.com/embed/5_ITb-e9QHU"
+			},
+			{
+				"url": "https://www.youtube.com/embed/kFNy8RpKX-E"
+			},
+			{
+				"url": "https://www.youtube.com/embed/M1KGU6JCXwY"
+			},
+			{
+				"url": "https://www.youtube.com/embed/cewd-qIkKxs"
+			},		
+			{
+				"url": "https://www.youtube.com/embed/GeK6Rqrdhdk"
+			},
+			{
+				"url": "https://www.youtube.com/embed/M1KGU6JCXwY"
+			}										
+		]
+
+	}	
+
+}
